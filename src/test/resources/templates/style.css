@@ -1,0 +1,32 @@
+/* Estilos personalizados */
+
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Estilos para los títulos */
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+}
+
+/* Estilos para los formularios */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+/* Estilos para los botones */
+.btn {
+    font-size: 1rem;
+    padding: 0.75rem 1.5rem;
+}
+
+/* Estilos para los enlaces de navegación */
+.navbar-nav .nav-link {
+    color: #333;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
